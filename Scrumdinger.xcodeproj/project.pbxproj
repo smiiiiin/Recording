@@ -104,8 +104,6 @@
 		A9789BB32947E4F500305A2F /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				A93E3F46294D1E5600B9708D /* MeetingTimerView.swift */,
-				A93E3F48294D1F8500B9708D /* SpeakerArc.swift */,
 				AAAE8021294793AB0099DABC /* MeetingView.swift */,
 				AAA368B629957D1A00FE35E9 /* NewScrumSheet.swift */,
 				A93E3F38294A6F3400B9708D /* ScrumProgressViewStyle.swift */,
@@ -120,6 +118,8 @@
 				C76970A729493341002748F5 /* ThemeView.swift */,
 				A93E3F44294D196600B9708D /* ErrorView.swift */,
 				A93E3F4C294D28C400B9708D /* HistoryView.swift */,
+				A93E3F46294D1E5600B9708D /* MeetingTimerView.swift */,
+				A93E3F48294D1F8500B9708D /* SpeakerArc.swift */,
 				213FD1BA2CE3900B00463C6A /* HeartIconView.swift */,
 			);
 			path = Views;
